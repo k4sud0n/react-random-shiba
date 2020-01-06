@@ -1,4 +1,4 @@
-# React movie app
+# React random shiba
 
 This is a app that shows random shiba dogs.
 
