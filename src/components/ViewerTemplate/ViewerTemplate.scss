@@ -1,0 +1,28 @@
+@import '~open-color/open-color';
+@import '~include-media/dist/include-media';
+
+.viewer-template {
+  header {
+    background: $oc-gray-9;
+    height: 5rem;
+    color: white;
+    padding: 1rem;
+
+    display: flex;
+    align-items: center;
+
+    font-size: 2rem;
+    font-weight: 600;
+
+    // 태블릿 사이즈에서  폰트 크기 줄이기
+    @include media("<tablet") {
+      font-size: 1.25rem;
+    }
+  }
+
+  .viewer-wrapper {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 5rem); // 페이지에서 헤더를 제외한 영역 모두 채우기
+  }
+}
