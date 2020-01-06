@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-random-shiba/static/css/main.cfa53a37.chunk.css",
+    "main.js": "/react-random-shiba/static/js/main.e82eafbb.chunk.js",
+    "main.js.map": "/react-random-shiba/static/js/main.e82eafbb.chunk.js.map",
+    "runtime-main.js": "/react-random-shiba/static/js/runtime-main.ea555759.js",
+    "runtime-main.js.map": "/react-random-shiba/static/js/runtime-main.ea555759.js.map",
+    "static/js/2.238c08ff.chunk.js": "/react-random-shiba/static/js/2.238c08ff.chunk.js",
+    "static/js/2.238c08ff.chunk.js.map": "/react-random-shiba/static/js/2.238c08ff.chunk.js.map",
+    "index.html": "/react-random-shiba/index.html",
+    "precache-manifest.038d9908a449e72a9ebb8dadb66cfc68.js": "/react-random-shiba/precache-manifest.038d9908a449e72a9ebb8dadb66cfc68.js",
+    "service-worker.js": "/react-random-shiba/service-worker.js",
+    "static/css/main.cfa53a37.chunk.css.map": "/react-random-shiba/static/css/main.cfa53a37.chunk.css.map",
+    "static/js/2.238c08ff.chunk.js.LICENSE": "/react-random-shiba/static/js/2.238c08ff.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea555759.js",
+    "static/js/2.238c08ff.chunk.js",
+    "static/css/main.cfa53a37.chunk.css",
+    "static/js/main.e82eafbb.chunk.js"
+  ]
+}
