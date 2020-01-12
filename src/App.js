@@ -34,7 +34,7 @@ class App extends React.Component {
   }
 
   handlePrev = () => {
-    this.getPic();
+    this.state.data;
   }
 
   handleNext = () => {
